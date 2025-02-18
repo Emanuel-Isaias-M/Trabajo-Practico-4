@@ -5,3 +5,4 @@ export default class SuperheroesDataSource {
         throw new Error('Este método debe ser implementado por la subclase');
     }
 }
+
